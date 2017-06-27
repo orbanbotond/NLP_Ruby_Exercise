@@ -18,3 +18,6 @@ TODO:
 
 Main source:
 https://github.com/arbox/nlp-with-ruby#lemmatization
+https://github.com/diasks2/ruby-nlp
+https://nlp.stanford.edu/software/lex-parser.shtml
+https://www.toptal.com/java/email-sentiment-analysis-bot
