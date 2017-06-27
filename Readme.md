@@ -15,3 +15,6 @@ TODO:
 -sentiment analysis
 -complete gramatical sentence analysis
 -more AI...
+
+Main source:
+https://github.com/arbox/nlp-with-ruby#lemmatization
