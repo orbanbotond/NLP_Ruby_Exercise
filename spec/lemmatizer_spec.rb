@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'observer'
+# require 'observer'
 
 describe 'Lemmatizer' do
   let(:lem) { Lemmatizer.new }
